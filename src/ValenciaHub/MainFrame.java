@@ -357,6 +357,7 @@ public class MainFrame extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 JOptionPane.showMessageDialog(null, mostrarPlanoDelHubTextArea.getText());
             }
+            //esta es prueba
         });
 
 
